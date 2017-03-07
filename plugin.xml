@@ -53,7 +53,7 @@
             target-dir="src/com/intel/cordovacontext"/>
         <source-file src="src/android/intel-context-sensing-1.6.7.232.jar"
             target-dir="libs/"/>
-         <source-file src="src/android/gson-2.3.1.jar" target-dir="libs" />
+         <!--<source-file src="src/android/gson-2.3.1.jar" target-dir="libs" />-->
 
     </platform>
 
